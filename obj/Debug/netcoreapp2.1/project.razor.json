@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/rx/Documents/CodingDojo/csharp_stack/aspNet_core/aspMVC/PasswordGenerator/PasswordGenerator.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  }
+}
